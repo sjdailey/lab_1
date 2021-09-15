@@ -1,3 +1,4 @@
 Name: Sam Dailey
 Major: Applied Math
 Emphasis: Statistics
+Hobbies: Reading
