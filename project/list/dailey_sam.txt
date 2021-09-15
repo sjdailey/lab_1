@@ -1,1 +1,3 @@
-Here is some text
+Name: Sam Dailey
+Major: Applied Math
+Emphasis: Statistics
